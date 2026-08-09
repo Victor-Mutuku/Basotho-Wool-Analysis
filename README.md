@@ -6,7 +6,7 @@ Cleaned, analyzed, and visualized the **Basotho Wool trade dataset** to understa
 ---
 
 ## Dataset
-- **Source:** TidyTuesday — Basotho Wool CSV
+- **Source:** TidyTuesday - Basotho Wool CSV
 - **Rows/Columns:** 293 rows, 24 columns
 - **Key Features:** `ref_year`, `ref_month`, `net_wgt`, `cifvalue`, `fobvalue`, `qty`, `qty_unit_abbr`, `alt_qty`, `flow_code`
 
@@ -28,15 +28,15 @@ Cleaned, analyzed, and visualized the **Basotho Wool trade dataset** to understa
 
 ### 3. Visualization & Analysis
 
-**Chart 1 — FOB Trade Value Over Time (Line Chart)**
+**Chart 1 - FOB Trade Value Over Time (Line Chart)**
 - Grouped data by year and summed total FOB value
 - Plotted yearly trend from 2010 to 2024
 
-**Chart 2 — Net Weight Exported Over Time (Line Chart with Markers)**
+**Chart 2 - Net Weight Exported Over Time (Line Chart with Markers)**
 - Grouped data by year and summed total net weight
 - Added markers at each data point for clarity
 
-**Chart 3 — Exports by Month (Bar Chart)**
+**Chart 3 - Exports by Month (Bar Chart)**
 - Grouped data by month and summed total net weight
 - Revealed seasonal export patterns across the calendar year
 
