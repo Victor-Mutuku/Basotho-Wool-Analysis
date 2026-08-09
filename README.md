@@ -56,5 +56,5 @@ Cleaned, analyzed, and visualized the **Basotho Wool trade dataset** to understa
 - Basotho wool FOB trade value grew approximately **30x from 2010 to 2022**
 - Export volume growth confirmed as the **primary driver of value increase**, not price alone
 - A significant export crash occurred in **2017-2018**, likely linked to regional drought in Lesotho
-- Clear seasonal pattern identified — exports peak in **November and January**, aligned with the Southern Hemisphere shearing calendar
+- Clear seasonal pattern identified - exports peak in **November and January**, aligned with the Southern Hemisphere shearing calendar
 - July and August consistently record the **lowest export volumes** corresponding to Lesotho's winter
